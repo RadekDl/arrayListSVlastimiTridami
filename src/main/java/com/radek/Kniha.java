@@ -32,9 +32,9 @@ public class Kniha {
     @Override
     public String toString() {
         return "Kniha{" +
-                "nazev='" + nazev + '\'' +
-                ", pocetStran=" + pocetStran +
-                ", vyrazena=" + vyrazena +
+                "nazev = '" + nazev + '\'' +
+                ", pocetStran = " + pocetStran +
+                ", vyrazena = " + vyrazena +
                 '}';
     }
 }
